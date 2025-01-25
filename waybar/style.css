@@ -47,7 +47,7 @@ window#waybar {
   font-size: 14px;
   font-weight: 400;
   color: #202020;
-  background: #1f3239;
+  background: #243b4d;
   border-radius: 2px;
 }
 
@@ -61,7 +61,7 @@ window#waybar {
 
 #custom-wofi {
   border-radius: 50px;
-  background: #1f3239;
+  background: #243b4d;
   padding: 3px 20px 6px;
   color:#8da9d1;
   margin: 5px 0px;
@@ -74,7 +74,7 @@ window#waybar {
 
 #workspaces button {
   color: #8da9d1;
-  background: #1f3239;
+  background: #243b4d;
   border: none;
   min-width: 30px;
   padding: 0 4px;
@@ -83,7 +83,7 @@ window#waybar {
 }
 
 #workspaces button:hover {
-  background: #1f3239;
+  background: #243b4d;
   min-width: 45px;
   border-radius: 50px;
 }
@@ -91,26 +91,26 @@ window#waybar {
 #workspaces button.visible {
   border: none;
   border-radius: 50px;
-  background: #1f3239;
+  background: #243b4d;
 }
 
 #workspaces button.visible:hover {
   border: none;
   border-radius: 50px;
-  background: #1f3239;
+  background: #243b4d;
 }
 
 #workspaces button.active {
   border: none;
   border-radius: 50px;
   min-width: 40px;
-  background: #1f3239;
+  background: #243b4d;
 }
 
 #workspaces button.active:hover {
   border: none;
   border-radius: 50px;
-  background: #1f3239;
+  background: #243b4d;
 }
 
 #workspaces button.urgent {
@@ -122,7 +122,7 @@ window#waybar {
 
 #window {
   color: #8da9d1;
-  background: #1f3239;
+  background: #243b4d;
   border-radius:50px;
   padding: 5px 20px 6px;
   margin: 5px 0px;
@@ -131,7 +131,7 @@ window#waybar {
 
 #pulseaudio {
   color: #8da9d1;
-  background: #1f3239;
+  background: #243b4d;
   border-radius:50px;
   padding: 5px 20px 6px;
   margin: 5px 0px;
@@ -139,7 +139,7 @@ window#waybar {
 
 #pulseaudio.muted {
   color: #ea6962;
-  background: #1f3239;
+  background: #243b4d;
   border-radius:50px;
   padding: 5px 20px 6px;
   margin: 5px 0px;
@@ -148,7 +148,7 @@ window#waybar {
 
 #clock.time {
   color: #8da9d1;
-  background: #1f3239;
+  background: #243b4d;
   padding: 5px 20px 6px;
   border-radius:50px;
   margin: 5px 0px;
@@ -170,8 +170,9 @@ window#waybar {
   padding: 2px 2px;
 }
 #bluetooth,#custom-wifi {
-  background:#1f3239;
+  background:#243b4d;
   border-radius:50px;
   padding: 5px 15px 8px;
   margin: 5px 0px;
 }
+
