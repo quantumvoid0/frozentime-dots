@@ -8,20 +8,20 @@ background-color: transparent;
 margin: 0px;
 border:none;
 color: #8da9d1;
-background-color: #1f3239;
+background-color: #243b4d;
 }
 
 #inner-box {
 margin: 5px;
 border: none;
-background-color: #1f3239;
+background-color: #243b4d;
 }
 
 #outer-box {
 margin: 5px;
 border: none;
 padding: 20px;
-background-color: #1f3239;
+background-color: #243b4d;
 border-radius: 50px;
 }
 
